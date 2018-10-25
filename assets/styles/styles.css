@@ -11,5 +11,5 @@ body {
 }
 
 .textSpace {
-  border: 10px lightcyan
+  border: 10px lightcyan solid;
 }
