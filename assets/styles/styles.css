@@ -1,0 +1,15 @@
+body {
+  background-color: lightcoral;
+}
+
+.textDiv {
+  border: 10px blue solid;
+}
+
+#idtest {
+  border: 20px red dotted;
+}
+
+.textSpace {
+  border: 10px lightcyan
+}
